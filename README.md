@@ -9,5 +9,7 @@ The current version of the scanner is 1.0.
 
 #### The python modules you need to use are:sys、math、requests、getopt、threading.
 
+### It should be noted that the dictionary can be your own, but the name must be dict.txt
+
 About using it , for example：
 #### python simdirscan.py -u URL -t THREADING -d DICTIONARY
