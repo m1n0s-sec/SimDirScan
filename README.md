@@ -1,1 +1,1 @@
-# simdirscan
+# SimDirScan
